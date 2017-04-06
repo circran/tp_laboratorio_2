@@ -1,0 +1,39 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Form1.resources
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Properties.Resources.resources
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.GenerateResource.Cache
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe.config
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\Calculadora.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\Numero.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\Numero.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\bin\Debug\Calculadora.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.pdb
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe.config
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.pdb
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\Calculadora.dll
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\Numero.dll
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\Numero.pdb
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\bin\Debug\Calculadora.pdb
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csprojResolveAssemblyReference.cache
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Form1.resources
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Properties.Resources.resources
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.GenerateResource.Cache
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.exe
+D:\Usuarios\alan\Desktop\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe.config
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\CalculadoraWF.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\Calculadora.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\Numero.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\Numero.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\bin\Debug\Calculadora.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Form1.resources
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.Properties.Resources.resources
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.GenerateResource.Cache
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\CalculadoraWF\obj\Debug\CalculadoraWF.pdb

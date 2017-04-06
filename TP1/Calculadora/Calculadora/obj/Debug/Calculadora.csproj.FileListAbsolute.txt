@@ -1,0 +1,13 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\bin\Debug\Numero.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\bin\Debug\Numero.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\bin\Debug\Numero.dll
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\bin\Debug\Numero.pdb
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+D:\Usuarios\alan\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
