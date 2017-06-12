@@ -1,0 +1,35 @@
+CLASE DE LaboratorioPOR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 2
+
+CLASES DEL DIA: 
+Laboratorio
+Legislacion
+
+ALUMNOS: 
+NOMBRE COMPLETO: Martinez, Juana
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 2
+
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Perez, Juan
+NACIONALIDAD: Argentino
+
+LEGAJO NÚMERO: 6
+
+ESTADO DE CUENTA: Deudor
+TOMA CLASE DE Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+LEGAJO NÚMERO: 7
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE Laboratorio
+
+

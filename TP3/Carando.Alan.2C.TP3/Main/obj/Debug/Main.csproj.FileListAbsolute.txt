@@ -1,0 +1,56 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe.config
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.exe
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.exe
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe.config
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe.config
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.exe
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe.config
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.exe
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Main.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesAbstractas.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\EntidadesInstanciables.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Excepciones.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.exe
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Main\obj\Debug\Main.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Main\bin\Debug\Archivos.pdb

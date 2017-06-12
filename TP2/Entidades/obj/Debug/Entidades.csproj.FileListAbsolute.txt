@@ -1,0 +1,30 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+G:\ASDASDASD\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+G:\ASDASDASD\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+G:\ASDASDASD\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\ASDASDASD\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+G:\ASDASDASD\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\Usuarios\alan\Desktop\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\alan\Desktop\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\alan\Desktop\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Usuarios\alan\Desktop\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\alan\Desktop\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+J:\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+J:\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+J:\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+J:\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+J:\tp_laboratorio_2-master\TP2\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb

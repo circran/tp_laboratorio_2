@@ -1,0 +1,28 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\PC\TP'S\TP3\Carando.Alan.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

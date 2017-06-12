@@ -1,0 +1,15 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

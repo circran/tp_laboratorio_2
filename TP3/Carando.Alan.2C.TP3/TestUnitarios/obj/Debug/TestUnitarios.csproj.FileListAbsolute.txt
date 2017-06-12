@@ -1,0 +1,46 @@
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Archivos.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesAbstractas.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesAbstractas.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Archivos.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesAbstractas.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesAbstractas.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

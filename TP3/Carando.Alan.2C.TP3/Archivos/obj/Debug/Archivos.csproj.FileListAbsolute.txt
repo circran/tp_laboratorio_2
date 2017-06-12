@@ -1,0 +1,21 @@
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.dll
+J:\PC\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\UTN\Laboratorio y Programacion II\TP'S\TP3\Carando.Alan.2C.TP3\Archivos\obj\Debug\Archivos.pdb
